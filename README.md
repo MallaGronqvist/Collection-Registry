@@ -1,4 +1,4 @@
-# Collection-Registry
+# Collection Registry
 
 
 
