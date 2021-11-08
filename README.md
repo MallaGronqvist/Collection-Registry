@@ -9,7 +9,7 @@ This is a console application for cataloguing collection items, such as music re
 The program provides following functionality:
 <li>Loading the registry from file
 <li>Saving the registry to file
-<li>Adding different types of items to the registry
+<li>Adding different types of items to the registry, such as music records, books and plants.
 <li>Searching for an item in the registry
 <li>Sorting the registry
 <li>Deleting item(s) from the registry
