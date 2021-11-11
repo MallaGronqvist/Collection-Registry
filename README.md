@@ -24,7 +24,7 @@ The program is written in C++ with following technical features:
 
 ## Challenges
   
-My goal was to create the program in a modular way so that the registry itself could host 
+My goal was to create the program with a modular design so that the registry itself could host 
 various types of items that could be plugged into the program.
 This goal is partly achieved through the use of template class for the registry itself 
 and a base class pointer and derived sub classes for the different types of items.
